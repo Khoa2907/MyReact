@@ -19,3 +19,5 @@ Bài Tập Môn React
 ## Thực Hành
 1. [Bài thực hành làm quen React và tạo component](https://codesandbox.io/s/baithuchanh-mvsws5?file=/src/SideBar.js)
 2. [Thực Hành Props vs State](https://codepen.io/Khoa2907/pen/qBKvOWp)
+3. [Bài Thực Hành Số 1](https://codesandbox.io/s/bai-thuc-hanh-1-rvz9wg)
+4. [Bài Thực Hành Số 2](https://codesandbox.io/s/bai-thuc-hanh-so-2-8ci7mj)
