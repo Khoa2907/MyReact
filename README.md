@@ -18,3 +18,4 @@ Bài Tập Môn React
 15. [Câu 21](https://codepen.io/Khoa2907/pen/qBKvdKj)
 ## Thực Hành
 1.[Bài thực hành làm quen React và tạo component](https://codesandbox.io/s/baithuchanh-mvsws5?file=/src/SideBar.js)
+2.[Thực Hành Props vs State](https://codepen.io/Khoa2907/pen/qBKvOWp)
